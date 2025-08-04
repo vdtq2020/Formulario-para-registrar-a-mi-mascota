@@ -13,7 +13,7 @@ body{
     padding: 0;
 }
 
-.form-register{
+form-register{
   background-color: #24303c;
   padding: 25px 30px;
   border-radius: 8px;
@@ -22,19 +22,19 @@ body{
   max-width: 500px;
 }
 
-.h1 {
+h1 {
   text-align: center;
   margin-bottom: 20px;
   color: #333;
 }
 
-.form label {
+form label {
   display: block;
   margin-top: 15px;
   color: #CCC8C8;
 }
 
-.form input {
+form input {
   width: 100%;
   padding: 10px;
   margin-top: 5px;
@@ -42,7 +42,7 @@ body{
   border-radius: 4px;
 }
 
-.form button {
+form button {
   margin-top: 20px;
   width: 100%;
   padding: 10px;
